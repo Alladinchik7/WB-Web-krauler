@@ -1,4 +1,4 @@
-# Credit Card Validator
+# Wildberis Web-Krauler
 
 ## 📋 Описание проекта
 
